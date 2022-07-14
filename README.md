@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @riuyong-dev/
+- 👋 Hi, I’m @riuyong-dev.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Blockchain.
